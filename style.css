@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+
+}
+#cor{
+    color: black;
+}
+.titulo{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
